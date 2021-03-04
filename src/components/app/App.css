@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body * {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+}
+
+.app {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 40px;
+    font-size: 18px;
+}

@@ -1,0 +1,18 @@
+.game-field {
+    margin: 40px 0;
+    position: relative;
+}
+
+.game-field__list {
+    margin: auto;
+    display: grid;
+    width: 180px;
+    height: 180px;
+    grid-template: repeat(3, 1fr)/repeat(3, 1fr);
+}
+
+.game-field__result {
+    position: absolute;
+    width: 100%;
+    bottom: -25px;
+}

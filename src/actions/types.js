@@ -1,0 +1,4 @@
+export const SET_PLAYER_DATA = 'SET_PLAYER_DATA';
+export const RESTART_GAME = 'RESTART_GAME';
+export const CHANGE_ACTIVE_PLAYER = 'CHANGE_ACTIVE_PLAYER';
+export const SET_WINNER = 'SET_WINNER';
